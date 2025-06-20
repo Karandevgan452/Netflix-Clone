@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
 
 *{
     box-sizing: border-box;
@@ -7,11 +7,13 @@
     font-family: 'Roboto', sans-serif;
     color: white;
 }
+
 .top{
     background: rgba(0,0,0,0.2)url("assets/Title-Image.png");
     background-blend-mode: darken;
       
 }
+
 section{
     height: "337px";
     width: "599px";
@@ -23,12 +25,14 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+
 nav ul{
     list-style: none;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .nav-bar{
     display: flex;
 }
